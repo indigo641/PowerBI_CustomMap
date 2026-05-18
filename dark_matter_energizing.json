@@ -32,7 +32,7 @@
     {
       "id": "background",
       "type": "background",
-      "paint": {"background-color": "rgba(20, 20, 20, 1)"}
+      "paint": {"background-color": "rgba(43, 42, 42, 1)"}
     },
     {
       "id": "water",
