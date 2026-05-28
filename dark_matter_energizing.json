@@ -632,7 +632,7 @@
         "text-font": ["Metropolis Light", "Noto Sans Regular"],
         "text-pitch-alignment": "viewport",
         "text-rotation-alignment": "viewport",
-        "text-size": 15,
+        "text-size": 16,
         "visibility": "visible"
       },
       "paint": {
@@ -762,7 +762,7 @@
         "text-font": ["Metropolis Regular", "Noto Sans Regular"],
         "text-justify": "left",
         "text-offset": [0.5, 0.2],
-        "text-size": 10,
+        "text-size": 14,
         "text-transform": "uppercase",
         "visibility": "visible"
       },
@@ -790,7 +790,7 @@
         "text-font": ["Metropolis Regular", "Noto Sans Regular"],
         "text-justify": "left",
         "text-offset": [0.5, 0.2],
-        "text-size": 12,
+        "text-size": 16,
         "text-transform": "uppercase",
         "visibility": "visible"
       },
@@ -825,7 +825,7 @@
         "text-font": ["Metropolis Regular", "Noto Sans Regular"],
         "text-justify": "left",
         "text-offset": [0.5, 0.2],
-        "text-size": 13,
+        "text-size": 18,
         "text-transform": "uppercase",
         "visibility": "visible"
       },
@@ -881,7 +881,7 @@
       "layout": {
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": ["Metropolis Regular", "Noto Sans Regular"],
-        "text-size": 10,
+        "text-size": 15,
         "text-transform": "uppercase",
         "visibility": "visible"
       },
@@ -969,7 +969,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "text-color": "rgb(101,101,101)",
+        "text-color": "rgba(239, 239, 239, 1)",
         "text-halo-color": "rgba(0,0,0,0.7)",
         "text-halo-width": 1.4
       }
