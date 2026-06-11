@@ -362,7 +362,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(166, 166, 166, 0.49)",
+        "line-color": "rgba(67, 67, 67, 0.49)",
         "line-width": {"stops": [[6, 0], [8, 2]]}
       }
     },
